@@ -1,5 +1,9 @@
 Using Web Services
 www.py4e.com/code3
 
-Changed file twitter2.py
-where i made html map with friends locations
+
+This is web-application where you can write twitter login of your friend, and it will show his city on a map.
+It is made on pythonanywhere.com
+
+
+http://mylyanykmarko.pythonanywhere.com/
